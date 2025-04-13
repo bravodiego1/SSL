@@ -1,6 +1,9 @@
 TP0 Finalizado.
+
 readme: frontpage de la resolución.
+
 hello.c: archivo fuente del programa.
+
 output.txt: salida redireccionada a un txt.
 
 Salida luego de ejecutar el comando: "gcc --version":
